@@ -8,7 +8,7 @@ const Footer = () => {
         style={{
           height: '400px',
           //width: '100%',
-          backgroundImage: 'url(bottom.jpg)',
+          backgroundImage: 'url(venice_park.jpg)',
           backgroundRepeat: 'no-repeat',
           backgroundAttachment: 'fixed',
           backgroundPosition: 'center',

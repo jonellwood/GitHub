@@ -220,7 +220,7 @@ const PageContent = ({ setComponents }) => {
           component="div"
           style={{ margin: 16, textAlign: 'center', color: 'grey' }}
         >
-          Something cool and snappy here to say about the Parks would be good
+          I think this is where we will display the list of blog posts
         </Typography>
         <div style={{ height: 50 }} />
       </div>
